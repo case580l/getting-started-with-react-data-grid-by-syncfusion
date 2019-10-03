@@ -1,6 +1,6 @@
 ## Introduction
 Learn how easily you can create and configure the React Data Grid from Syncfusion using the "create-react-app" toolchain.
-This repository is the exercise files of the below mentioned YouTube Video. In this video, I’ll create a new React application using the create-react-app toolchain and then add the React Data Grid by Syncfusion into it using the ej2-react-grids package. Also, I’ll explain the simple customizations that can be done on grid columns, as well as how to enable some important features such as paging, filtering, and grouping.
+This repository is the exercise files of the below mentioned YouTube video. In this video, I’ll create a new React application using the create-react-app toolchain and then add the React Data Grid by Syncfusion into it using the ej2-react-grids package. Also, I’ll explain the simple customizations that can be done on grid columns, as well as how to enable some important features such as paging, filtering, and grouping.
 
 YouTube Video: https://www.youtube.com/watch?v=QNwcXokKc70
 
@@ -22,7 +22,7 @@ SOCIAL COMMUNITY
 -------------
 Facebook: https://www.facebook.com/Syncfusion/ 
 <br/>Twitter: https://twitter.com/Syncfusion
-<br/>LinkedIn: https://www.linkedin.com/company/sync
+<br/>LinkedIn: https://www.linkedin.com/company/syncfusion
 
 ```
 npm install
