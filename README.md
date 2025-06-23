@@ -30,3 +30,4 @@ npm start
 ```
 YouTube Video Link: https://www.youtube.com/watch?v=QNwcXokKc70
 <br/>Documentation Link: https://ej2.syncfusion.com/react/documentation/grid/getting-started
+<br/>GitHub Link: https://github.com/syncfusion/ej2-react-ui-components
